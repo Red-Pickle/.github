@@ -15,4 +15,5 @@ Games:
 <ul>
   <li><a href="https://red-pickle-studios.itch.io/escape-pennywise">Escape Pennywise</a></li>
   <li><a href="https://red-pickle-studios.itch.io/escape-pennywise-deluxe-edition">Escape Pennywise Deluxe Edition</a></li>
+  <li>COMING SOON: Escape Pennywise 2D Shareware</li>
 </ul>
